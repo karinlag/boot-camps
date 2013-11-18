@@ -85,7 +85,7 @@ Our default editor will now pop up. Why? Well, Git can automatically figure out 
 
 > **Initial structure and headings for the journal paper.**
 
-> Ideally, commit messages should have meaning to others who may read them - or you 6 months from now. Messages like "made a change" or "added changes" or "commit 5" aren't that helpful (in fact, they're redundant!).  A good commit message usually contains a one-line description followed by a longer explanation, if necessary.
+Ideally, commit messages should have meaning to others who may read them - or you 6 months from now. Messages like "made a change" or "added changes" or "commit 5" aren't that helpful (in fact, they're redundant!).  A good commit message usually contains a one-line description followed by a longer explanation, if necessary.
 
 If we save our commit message, Git will now commit our file.
 
