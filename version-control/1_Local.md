@@ -111,7 +111,7 @@ The output shows: the commit identifier (also called revision number) which uniq
 
     $ git log --relative-date
 
-Now let's make some more changes to our journal.txt file . If we now run,
+Now let's make some more changes to our journal.txt file - lets add some subsection headings. If we now run,
 
     $ nano journal.txt
 	$ git status journal.txt
