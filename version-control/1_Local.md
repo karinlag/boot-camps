@@ -165,7 +165,7 @@ This basically tells Git to run git add on any file that is "tracked" - that is,
 Let us suppose we've made a change to our file and not yet committed it. We can see the changes that we've made:
 
     $ nano journal.txt
-	$ git diff journal.txt
+	$ git diff journal.txt HEAD
 
 This shows the difference between the latest copy in the repository and the changes we've made. 
 
